@@ -1,2 +1,3 @@
 RL_env
-ppo_pong.zip
+ppo_*.zip
+trpo_*.zip
